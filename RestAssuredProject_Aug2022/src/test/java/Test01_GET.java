@@ -21,7 +21,7 @@ public class Test01_GET {
 		System.out.println(response.getTime());
 		
 		int statuscode = response.getStatusCode();
-		Assert.assertEquals(statuscode, 200);
+		Assert.assertEquals(statuscode, 201);
 	}
 	
 @Test
