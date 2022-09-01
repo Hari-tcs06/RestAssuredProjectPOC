@@ -26,7 +26,7 @@ public class Test01_GET {
 	
 @Test
 	
-	void test_11 () 
+	void test_12 () 
 	{
 	
 	given().get("https://reqres.in/api/users?page=2").then().statusCode(200);
