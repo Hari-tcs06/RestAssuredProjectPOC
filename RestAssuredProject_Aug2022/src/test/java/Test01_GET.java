@@ -26,18 +26,8 @@ public class Test01_GET {
 	
 @Test
 	
-<<<<<<< HEAD
-
-
-
-
-
-
-	void test_15 () 
-
-=======
 	void test_09 () 
->>>>>>> refs/remotes/origin/master
+
 	{
 	
 	given().get("https://reqres.in/api/users?page=2").then().statusCode(200);
