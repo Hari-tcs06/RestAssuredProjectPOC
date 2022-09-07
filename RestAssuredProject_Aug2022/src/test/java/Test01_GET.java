@@ -32,7 +32,7 @@ public class Test01_GET {
 
 
 
-	void test_12 () 
+	void test_13 () 
 
 	{
 	
