@@ -21,12 +21,15 @@ public class Test01_GET {
 		System.out.println(response.getTime());
 		
 		int statuscode = response.getStatusCode();
-		Assert.assertEquals(statuscode, 200);
+		Assert.assertEquals(statuscode, 201);
 	}
 	
 @Test
 	
-	void test_18 () 
+
+
+	void test_19 () 
+
 	{
 	
 	given().get("https://reqres.in/api/users?page=2").then().statusCode(200);
