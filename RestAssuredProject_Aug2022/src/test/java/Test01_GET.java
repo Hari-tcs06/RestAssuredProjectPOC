@@ -26,7 +26,7 @@ public class Test01_GET {
 	
 @Test
 	
-	void test_09 () 
+	void test_12 () 
 
 	{
 	
