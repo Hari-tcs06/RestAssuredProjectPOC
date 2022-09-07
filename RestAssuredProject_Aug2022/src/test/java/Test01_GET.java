@@ -28,7 +28,11 @@ public class Test01_GET {
 	
 
 
-	void test_19 () 
+
+
+
+
+	void test_12 () 
 
 	{
 	
