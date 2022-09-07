@@ -21,12 +21,12 @@ public class Test01_GET {
 		System.out.println(response.getTime());
 		
 		int statuscode = response.getStatusCode();
-		Assert.assertEquals(statuscode, 201);
+		Assert.assertEquals(statuscode, 200);
 	}
 	
 @Test
 	
-	void test_12 () 
+	void test_02 () 
 
 	{
 	
