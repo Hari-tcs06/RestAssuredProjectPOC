@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-20T14:59:58 AEST" name="Default suite" finished-at="2022-09-20T15:00:10 AEST" duration-ms="11435">
+  <suite started-at="2022-09-27T16:00:20 AEST" name="Default suite" finished-at="2022-09-27T16:00:29 AEST" duration-ms="9415">
     <groups>
     </groups>
-    <test started-at="2022-09-20T14:59:58 AEST" name="Default test" finished-at="2022-09-20T15:00:10 AEST" duration-ms="11435">
+    <test started-at="2022-09-27T16:00:20 AEST" name="Default test" finished-at="2022-09-27T16:00:29 AEST" duration-ms="9415">
       <class name="Test01_GET">
-        <test-method signature="test_01()[pri:0, instance:Test01_GET@6f46426d]" started-at="2022-09-20T14:59:58 AEST" name="test_01" finished-at="2022-09-20T15:00:09 AEST" duration-ms="10801" status="PASS">
+        <test-method signature="test_01()[pri:0, instance:Test01_GET@5082d622]" started-at="2022-09-27T16:00:20 AEST" name="test_01" description="Test case 1 - Check status code" finished-at="2022-09-27T16:00:29 AEST" duration-ms="8513" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_01 -->
-        <test-method signature="test_02()[pri:0, instance:Test01_GET@6f46426d]" started-at="2022-09-20T15:00:09 AEST" name="test_02" finished-at="2022-09-20T15:00:10 AEST" duration-ms="356" status="PASS">
+        <test-method signature="test_02()[pri:1, instance:Test01_GET@5082d622]" started-at="2022-09-27T16:00:29 AEST" name="test_02" description="Test case 1 - Check status code" finished-at="2022-09-27T16:00:29 AEST" duration-ms="356" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_02 -->
